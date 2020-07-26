@@ -1,2 +1,2 @@
-# test_node_app
+# app_node_firebase
 node firebase test
